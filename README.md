@@ -1,7 +1,6 @@
-echo "# Portfolio-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AmikaKumar/Portfolio-.git
-git push -u origin main
+# Student at Drexel University 
+
+## Education
+Economics and Data Science, BS
+
+
